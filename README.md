@@ -1,1 +1,1 @@
-# weafrican_web
+# Weafrican Web
