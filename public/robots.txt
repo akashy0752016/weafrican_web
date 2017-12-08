@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /.well-known/assetlinks.json
+Allow: /.well-known/statements.json

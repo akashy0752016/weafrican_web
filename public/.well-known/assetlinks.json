@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.weafricans.weafricansapp",
+    "sha256_cert_fingerprints":
+    ["DB:9B:2E:DB:4F:2D:DC:C0:3E:15:FE:2F:A2:38:89:36:0B:EC:F9:E8:3F:33:B6:98:85:E8:A7:15:B8:1D:24:8F"]
+  }
+}]
